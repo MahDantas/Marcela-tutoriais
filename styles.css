@@ -10,7 +10,7 @@ header {
     padding: 20px;
     font-size: 40px;
     display: flex;
-    ss
+    justify-content:center;
 }
 
 div {
